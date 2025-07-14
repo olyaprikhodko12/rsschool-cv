@@ -6,10 +6,11 @@
 ## skills 
 #### git, HTML 
 ## code example:
-  ``` function typeOfSum(a, b) {
+
+  ```function typeOfSum(a, b) {
   let typ = typeof(a+b);
-   return typ;
-} ```
+   return typ; };
+```
 
 ## experience: 
 #### no work experience
